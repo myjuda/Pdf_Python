@@ -1,5 +1,5 @@
 
-## Toda esta configuración ja cria um pdf em branco.
+## Toda esta configuração ja cria um pdf com as configurações do formato que se precise preencher.
 
 - Gerar documento
 - Preencher as informações que precisa pro PDF que estou criando
